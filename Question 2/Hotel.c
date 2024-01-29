@@ -1,4 +1,4 @@
-//prog71985 - Giteshj - w23 - Assignment 4 refactor - question 2 refactor 
+
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>

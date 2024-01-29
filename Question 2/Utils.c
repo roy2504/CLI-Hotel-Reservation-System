@@ -2,7 +2,6 @@
 #include "Utils.h"
 #include <string.h>
 
-//prog71985 - Giteshj - w23 - Assignment 4 refactor - question 2 refactor 
 
 void removeTrailingNewLine(char* buffer)
 {
